@@ -1,3 +1,3 @@
-# PickPet
-This is a project for the mini-hackathon being put on by the UAH CS Club. We will be using the Petfinder API
-to find pets in the user's local area and providing a "Pet of the Day."
+# PetFinderPython
+This is a Python binding of the Pet Finder API. Most functions should be self explanatory as to what they return.
+If need be, the original documentation is the best bet of finding the return types and how to use the code [which is right here.](https://www.petfinder.com/developers/api-docs)
